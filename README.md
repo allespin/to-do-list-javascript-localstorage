@@ -47,7 +47,7 @@ View the project [HERE!](https://allespin.github.io/to-do-list-javascript-locals
 ## Tools used ⚙️
 - HTML5
 - CSS3
-= Bootstrap
+- Bootstrap
 - JavaScript
 - localStorage API
 
