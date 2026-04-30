@@ -1,0 +1,27 @@
+#container-central {
+    /* Define a largura que você deseja */
+    width: 700px; 
+    
+    /* Importante para não quebrar em telas pequenas (celulares) */
+    max-width: 90%; 
+    
+    /* Garante que o card não fique "achatado" se a lista estiver vazia */
+    min-height: 200px; 
+}
+
+/* Estilo extra para o título se quiser algo mais moderno */
+.card-header {
+    font-size: 2.5rem;
+    color: rgb(49, 49, 49);
+    
+}
+
+.list-group-item {
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+.list-group-item:hover {
+    background-color: #ffe5e5; /* Um tom avermelhado suave ao passar o mouse */
+    color: #dc3545; /* Cor de erro/exclusão do Bootstrap */
+}
