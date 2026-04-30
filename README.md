@@ -39,7 +39,7 @@ Visualize o projeto [AQUI!](https://allespin.github.io/to-do-list-javascript-loc
 View the project [HERE!](https://allespin.github.io/to-do-list-javascript-localstorage/)
 
 ##  Features 🚀
-- Registration: Add tasks using the "Cadastrar" button or by pressing the Enter key.
+- Registration: Add tasks using the "Cadastrar" button or by pressing the `Enter` key.
 - Data persistence: Tasks remain saved even after refreshing the page.
 - Management by order: Organized display of tasks based on insertion order.
 - Simple removal: Delete tasks from the list by clicking on the item.
