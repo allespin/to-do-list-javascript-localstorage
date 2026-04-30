@@ -3,7 +3,7 @@
 
 <img width="1059" height="627" alt="to-do-list" src="https://github.com/user-attachments/assets/cdf8a537-d871-45b5-add6-1de582ba007f" />
 
-<br> Este projeto é uma lista de tarefas funcional desenvolvida para aplicar e explorar o uso de Web Storage no navegador. O objetivo foi implementar a persistência de dados no lado do cliente utilizando a API localStorage do JavaScript.
+<br> Lista de tarefas funcional desenvolvida para aplicar e explorar o uso de Web Storage no navegador. O objetivo foi implementar a persistência de dados no lado do cliente utilizando a API localStorage do JavaScript.
 
 ## Visualize o projeto 💻
 
@@ -33,7 +33,7 @@ Visualize o projeto [AQUI!](https://allespin.github.io/to-do-list-javascript-loc
 
 # To-Do List with localStorage 📝
 
-<br> This project is a functional to-do list developed to apply and explore the use of Web Storage in the browser. The goal was to implement client-side data persistence using the JavaScript localStorage API.
+<br> Functional to-do list developed to apply and explore the use of Web Storage in the browser. The goal was to implement client-side data persistence using the JavaScript localStorage API.
 
 ## View the project 💻
 View the project [HERE!](https://allespin.github.io/to-do-list-javascript-localstorage/)
