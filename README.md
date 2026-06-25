@@ -7,7 +7,7 @@
 
 ## Visualize o projeto 💻
 
-Visualize o projeto [AQUI!](https://allespin.github.io/to-do-list-javascript-localstorage/)
+Visualize o projeto [AQUI!](https://allespin.github.io/todo-list-js/)
 
 ## Funcionalidades 🚀
 - Cadastro: Adicione tarefas através do botão "Cadastrar" ou pressionando a tecla `Enter`.
@@ -36,7 +36,7 @@ Visualize o projeto [AQUI!](https://allespin.github.io/to-do-list-javascript-loc
 <br> Functional to-do list developed to apply and explore the use of Web Storage in the browser. The goal was to implement client-side data persistence using the JavaScript localStorage API.
 
 ## View the project 💻
-View the project [HERE!](https://allespin.github.io/to-do-list-javascript-localstorage/)
+View the project [HERE!](https://allespin.github.io/todo-list-js/)
 
 ##  Features 🚀
 - Registration: Add tasks using the "Cadastrar" button or by pressing the `Enter` key.
